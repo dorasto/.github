@@ -1,4 +1,4 @@
-<h1 align="center">Designed for the dreamers and the doers</h1> 🚀
+<h1 align="center">Designed for the dreamers and the doers 🚀</h1> 
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2>Doras is more than just your generic link in bio platform</h2> 😏
+<h2>Doras is more than just your generic link in bio platform 😏</h2>
 
 ###
 
