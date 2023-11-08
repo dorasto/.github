@@ -22,6 +22,8 @@
 | [doras-to/docs](https://github.com/doras-to/docs) | Documentation for Doras - Available on [docs.doras.to](https://docs.doras.to) |
 | [doras-to/native](https://github.com/doras-to/native) | Source code to the Android & iOS apps |
 
+## All issues can be tracked via [this project](https://github.com/orgs/doras-to/projects/1)
+
 ## Our Commitment to open source
 While we're committed to open sourcing everything, there are some things we must have locked for security purposes. However, anything that isn't sensitive we're committing to as open source for our community to know we mean right by them. This allows the community to work help work on bugs, improvements, and even whole new features, should they wish.
 Although the project is open source, we will not be provding any self-hosted features, due to the nature of how we've built and designed Doras.
