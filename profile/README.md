@@ -1,28 +1,33 @@
-<h1 align="center">Designed for the dreamers and the doers 🚀</h1> 
+<h1 align="center">
+  <a href="https://github.com/dorasto">
+    <img src="https://cdn.doras.to/doras/assets/05c5db48-cfba-49d7-82a1-5b4a3751aa40/47b5d8d2-9e21-45f6-9164-bc53744917ff.webp" alt="Logo" width="10%">
+  </a>
+</h1>
 
-###
+Doras is all about bringing power to content creators, entrepreneurs and business with social media. With powerful tools like a fully customizable link in bio, mediakit, and even blog hosting. 
 
-<br clear="both">
+Majority of things outside of our primary SaaS are fully open source under licenses such as the GNU GPL v3. This is to show our commitment to the community, and help others understand code, and to contribute to what we are doing.
 
-<img align="left" height="200" src="https://gezel.b-cdn.net/doras/icon.svg"  />
-
-###
-
-<h2>Doras is more than just your generic link in bio platform 😏</h2>
-
-###
-
-<p align="left">- Link in bio<br>- Link shortener<br>- Dedicated streamer tools<br>- Media Kits<br>- Brand accounts without silly paywalls</p>
-
-### Main Repositories
-| Repository | What it's for |
-|--------------|-----------|
-| [doras-to/doras](https://github.com/doras-to/doras) | Everything on [Doras.to](https://doras.to) that doesn't require authentication |
-| [doras-to/admin](https://github.com/doras-to/admin) | The admin portal for Doras - Available after login on [admin.doras.to](https://admin.doras.to) |
-| [doras-to/docs](https://github.com/doras-to/docs) | Documentation for Doras - Available on [docs.doras.to](https://docs.doras.to) |
-| [doras-to/native](https://github.com/doras-to/native) | Source code to the Android & iOS apps |
-
-## [All issues can be tracked via this project](https://github.com/orgs/doras-to/projects/1)
+## [Doras.to](https://doras.to)
+- Our primary tool, accessible on [Doras.to](https://doras.to)
+- Provives a free link in bio, mediakit, and blogging functionaility
+- Also has the ability to create "Brands" so you and your team can work on a single profile, from individual accounts
+- Features:
+  - Link in bio
+  - Link shortening
+  - Blogging
+  - Asset gallery/manager
+  - APIs for both read access (free) and our Pro API for more sensitive datasets & `PATCH` requests
+ 
+## Doras Bot
+- Our Discord bot, providing a free alternative to the multitude of paid Discord bots out there
+- Features
+  - Auto post unlimited Twitch livestream notifications
+  - Offline support
+    - Once your stream ends, you can choose to either keep the embed and update the link to the specific VOD or
+    - Remove the embed entirely
+  - Fully open source
+  - Use our bot, or self host it yourself
 
 ## Our Commitment to open source
 While we're committed to open sourcing everything, there are some things we must have locked for security purposes. However, anything that isn't sensitive we're committing to as open source for our community to know we mean right by them. This allows the community to work help work on bugs, improvements, and even whole new features, should they wish.
